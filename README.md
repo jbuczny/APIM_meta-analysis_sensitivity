@@ -104,5 +104,4 @@ cosmetic:
 
 ## License
 
-MIT (see `LICENSE`). The copyright line reads "The Authors" so the repository
-can be shared during masked review; replace it with your name afterwards.
+CC BY-NC 4.0 (see `LICENSE.md`).
