@@ -1,0 +1,27 @@
+# ---- R / RStudio ----------------------------------------------------------
+.Rproj.user/
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+
+# ---- macOS / Dropbox ------------------------------------------------------
+.DS_Store
+.AppleDouble
+.AU.*.nosync
+.dropbox*
+Icon?
+
+# ---- Office lock files ----------------------------------------------------
+~$*
+
+# ---- Generated outputs ----------------------------------------------------
+# Everything below is recreated by running apim_meta_sensitivity.R.
+# The full power-curve grid (~10 MB) and the raw results object are left out;
+# the summary CSVs, figures and the report are tracked.
+APIM_sensitivity_direct_power_curves.csv
+APIM_sensitivity_direct_power_curves.csv.gz
+
+# Simulation objects, except the study-level input the script reads
+*.rds
+!APIM_meta_analysis_results.rds

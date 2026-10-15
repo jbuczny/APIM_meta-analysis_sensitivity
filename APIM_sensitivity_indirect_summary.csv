@@ -1,0 +1,193 @@
+"k","component","het","method","type","min_ab","at_a","at_b","diag_a","type1_ab0","diag_ab"
+"k = 2","Uncorrected","I² = 0%","rma(): CE (z)","Actor–actor",0.0156,0.13,0.12,0.122222222222222,0.004,0.0149382716049383
+"k = 2","Uncorrected","I² = 0%","rma(): CE (z)","Partner–partner",0.0154,0.11,0.14,0.121168831168831,0.002,0.0146818856468207
+"k = 2","Uncorrected","I² = 0%","rma(): CE (z)","Actor–partner",0.0156,0.13,0.12,0.121176470588235,0.006,0.0146837370242215
+"k = 2","Uncorrected","I² = 0%","rma(): CE (z)","Partner–actor",0.0154,0.11,0.14,0.12089552238806,0.001,0.0146157273334818
+"k = 2","Uncorrected","I² = 0%","rma(): RE (z)","Actor–actor",0.0221,0.13,0.17,0.1458,0.002,0.02125764
+"k = 2","Uncorrected","I² = 0%","rma(): RE (z)","Partner–partner",0.021,0.15,0.14,0.143404255319149,0.002,0.0205647804436397
+"k = 2","Uncorrected","I² = 0%","rma(): RE (z)","Actor–partner",0.0208,0.13,0.16,0.143269230769231,0.004,0.0205260724852071
+"k = 2","Uncorrected","I² = 0%","rma(): RE (z)","Partner–actor",0.0221,0.13,0.17,0.1454,0,0.02114116
+"k = 2","Uncorrected","I² = 0%","rma(): RE (KH)","Actor–actor",NA,NA,NA,NA,0,NA
+"k = 2","Uncorrected","I² = 0%","rma(): RE (KH)","Partner–partner",NA,NA,NA,NA,0.003,NA
+"k = 2","Uncorrected","I² = 0%","rma(): RE (KH)","Actor–partner",NA,NA,NA,NA,0.004,NA
+"k = 2","Uncorrected","I² = 0%","rma(): RE (KH)","Partner–actor",NA,NA,NA,NA,0.002,NA
+"k = 2","Uncorrected","I² = 0%","rma(): RE (KH ad hoc)","Actor–actor",NA,NA,NA,NA,0,NA
+"k = 2","Uncorrected","I² = 0%","rma(): RE (KH ad hoc)","Partner–partner",NA,NA,NA,NA,0,NA
+"k = 2","Uncorrected","I² = 0%","rma(): RE (KH ad hoc)","Actor–partner",NA,NA,NA,NA,0,NA
+"k = 2","Uncorrected","I² = 0%","rma(): RE (KH ad hoc)","Partner–actor",NA,NA,NA,NA,0,NA
+"k = 2","Uncorrected","I² = 0%","rma.mv(): multilevel (z)","Actor–actor",0.0168,0.12,0.14,0.129878048780488,0.002,0.0168683075550268
+"k = 2","Uncorrected","I² = 0%","rma.mv(): multilevel (z)","Partner–partner",0.0168,0.12,0.14,0.128666666666667,0.002,0.0165551111111111
+"k = 2","Uncorrected","I² = 0%","rma.mv(): multilevel (z)","Actor–partner",0.0168,0.12,0.14,0.1275,0.006,0.01625625
+"k = 2","Uncorrected","I² = 0%","rma.mv(): multilevel (z)","Partner–actor",0.0168,0.12,0.14,0.130232558139535,0.001,0.0169605191995673
+"k = 2","Uncorrected","I² = 0%","rma.mv(): multilevel (CR2)","Actor–actor",NA,NA,NA,NA,0,NA
+"k = 2","Uncorrected","I² = 0%","rma.mv(): multilevel (CR2)","Partner–partner",NA,NA,NA,NA,0.001,NA
+"k = 2","Uncorrected","I² = 0%","rma.mv(): multilevel (CR2)","Actor–partner",NA,NA,NA,NA,0.002,NA
+"k = 2","Uncorrected","I² = 0%","rma.mv(): multilevel (CR2)","Partner–actor",NA,NA,NA,NA,0,NA
+"k = 2","Uncorrected","I² = 25%","rma(): CE (z)","Actor–actor",0.018,0.12,0.15,0.131060606060606,0.009,0.0171768824609734
+"k = 2","Uncorrected","I² = 25%","rma(): CE (z)","Partner–partner",0.018,0.12,0.15,0.130597014925373,0.008,0.0170555803074181
+"k = 2","Uncorrected","I² = 25%","rma(): CE (z)","Actor–partner",0.018,0.12,0.15,0.130845070422535,0.01,0.0171204324538782
+"k = 2","Uncorrected","I² = 25%","rma(): CE (z)","Partner–actor",0.0169,0.13,0.13,0.129615384615385,0.007,0.0168001479289941
+"k = 2","Uncorrected","I² = 25%","rma(): RE (z)","Actor–actor",0.027,0.15,0.18,0.162941176470588,0.002,0.0265498269896194
+"k = 2","Uncorrected","I² = 25%","rma(): RE (z)","Partner–partner",0.0285,0.15,0.19,0.165744680851064,0.004,0.027471299230421
+"k = 2","Uncorrected","I² = 25%","rma(): RE (z)","Actor–partner",0.0272,0.16,0.17,0.165714285714286,0.004,0.0274612244897959
+"k = 2","Uncorrected","I² = 25%","rma(): RE (z)","Partner–actor",0.027,0.15,0.18,0.163018867924528,0.005,0.0265751512993948
+"k = 2","Uncorrected","I² = 25%","rma(): RE (KH)","Actor–actor",NA,NA,NA,NA,0.002,NA
+"k = 2","Uncorrected","I² = 25%","rma(): RE (KH)","Partner–partner",NA,NA,NA,NA,0.003,NA
+"k = 2","Uncorrected","I² = 25%","rma(): RE (KH)","Actor–partner",NA,NA,NA,NA,0.002,NA
+"k = 2","Uncorrected","I² = 25%","rma(): RE (KH)","Partner–actor",NA,NA,NA,NA,0.002,NA
+"k = 2","Uncorrected","I² = 25%","rma(): RE (KH ad hoc)","Actor–actor",NA,NA,NA,NA,0,NA
+"k = 2","Uncorrected","I² = 25%","rma(): RE (KH ad hoc)","Partner–partner",NA,NA,NA,NA,0,NA
+"k = 2","Uncorrected","I² = 25%","rma(): RE (KH ad hoc)","Actor–partner",NA,NA,NA,NA,0,NA
+"k = 2","Uncorrected","I² = 25%","rma(): RE (KH ad hoc)","Partner–actor",NA,NA,NA,NA,0,NA
+"k = 2","Uncorrected","I² = 25%","rma.mv(): multilevel (z)","Actor–actor",0.0224,0.14,0.16,0.147058823529412,0.005,0.0216262975778547
+"k = 2","Uncorrected","I² = 25%","rma.mv(): multilevel (z)","Partner–partner",0.0224,0.16,0.14,0.147301587301587,0.004,0.0216977576215671
+"k = 2","Uncorrected","I² = 25%","rma.mv(): multilevel (z)","Actor–partner",0.0224,0.16,0.14,0.145813953488372,0.004,0.0212617090319091
+"k = 2","Uncorrected","I² = 25%","rma.mv(): multilevel (z)","Partner–actor",0.0224,0.14,0.16,0.147611940298507,0.003,0.0217892849186901
+"k = 2","Uncorrected","I² = 25%","rma.mv(): multilevel (CR2)","Actor–actor",NA,NA,NA,NA,0.001,NA
+"k = 2","Uncorrected","I² = 25%","rma.mv(): multilevel (CR2)","Partner–partner",NA,NA,NA,NA,0.002,NA
+"k = 2","Uncorrected","I² = 25%","rma.mv(): multilevel (CR2)","Actor–partner",NA,NA,NA,NA,0.002,NA
+"k = 2","Uncorrected","I² = 25%","rma.mv(): multilevel (CR2)","Partner–actor",NA,NA,NA,NA,0,NA
+"k = 2","Uncorrected","I² = 50%","rma(): CE (z)","Actor–actor",0.021,0.15,0.14,0.143148148148148,0.03,0.0204913923182442
+"k = 2","Uncorrected","I² = 50%","rma(): CE (z)","Partner–partner",0.0221,0.13,0.17,0.145535714285714,0.022,0.0211806441326531
+"k = 2","Uncorrected","I² = 50%","rma(): CE (z)","Actor–partner",0.0221,0.13,0.17,0.145,0.03,0.021025
+"k = 2","Uncorrected","I² = 50%","rma(): CE (z)","Partner–actor",0.0208,0.13,0.16,0.142758620689655,0.029,0.0203800237812128
+"k = 2","Uncorrected","I² = 50%","rma(): RE (z)","Actor–actor",0.0396,0.18,0.22,0.196764705882353,0.013,0.0387163494809689
+"k = 2","Uncorrected","I² = 50%","rma(): RE (z)","Partner–partner",0.0399,0.21,0.19,0.200512820512821,0.01,0.0402053911900066
+"k = 2","Uncorrected","I² = 50%","rma(): RE (z)","Actor–partner",0.0399,0.19,0.21,0.198888888888889,0.012,0.0395567901234568
+"k = 2","Uncorrected","I² = 50%","rma(): RE (z)","Partner–actor",0.0399,0.21,0.19,0.198918918918919,0.014,0.0395687363038714
+"k = 2","Uncorrected","I² = 50%","rma(): RE (KH)","Actor–actor",NA,NA,NA,NA,0.004,NA
+"k = 2","Uncorrected","I² = 50%","rma(): RE (KH)","Partner–partner",NA,NA,NA,NA,0.002,NA
+"k = 2","Uncorrected","I² = 50%","rma(): RE (KH)","Actor–partner",NA,NA,NA,NA,0.004,NA
+"k = 2","Uncorrected","I² = 50%","rma(): RE (KH)","Partner–actor",NA,NA,NA,NA,0.005,NA
+"k = 2","Uncorrected","I² = 50%","rma(): RE (KH ad hoc)","Actor–actor",NA,NA,NA,NA,0,NA
+"k = 2","Uncorrected","I² = 50%","rma(): RE (KH ad hoc)","Partner–partner",NA,NA,NA,NA,0,NA
+"k = 2","Uncorrected","I² = 50%","rma(): RE (KH ad hoc)","Actor–partner",NA,NA,NA,NA,0,NA
+"k = 2","Uncorrected","I² = 50%","rma(): RE (KH ad hoc)","Partner–actor",NA,NA,NA,NA,0,NA
+"k = 2","Uncorrected","I² = 50%","rma.mv(): multilevel (z)","Actor–actor",0.0323,0.17,0.19,0.180923076923077,0.011,0.0327331597633136
+"k = 2","Uncorrected","I² = 50%","rma.mv(): multilevel (z)","Partner–partner",0.0324,0.18,0.18,0.1796875,0.011,0.03228759765625
+"k = 2","Uncorrected","I² = 50%","rma.mv(): multilevel (z)","Actor–partner",0.0323,0.17,0.19,0.179310344827586,0.012,0.0321521997621879
+"k = 2","Uncorrected","I² = 50%","rma.mv(): multilevel (z)","Partner–actor",0.0323,0.17,0.19,0.180322580645161,0.008,0.0325162330905307
+"k = 2","Uncorrected","I² = 50%","rma.mv(): multilevel (CR2)","Actor–actor",NA,NA,NA,NA,0.002,NA
+"k = 2","Uncorrected","I² = 50%","rma.mv(): multilevel (CR2)","Partner–partner",NA,NA,NA,NA,0,NA
+"k = 2","Uncorrected","I² = 50%","rma.mv(): multilevel (CR2)","Actor–partner",NA,NA,NA,NA,0,NA
+"k = 2","Uncorrected","I² = 50%","rma.mv(): multilevel (CR2)","Partner–actor",NA,NA,NA,NA,0.001,NA
+"k = 2","Uncorrected","I² = 75%","rma(): CE (z)","Actor–actor",0.0288,0.16,0.18,0.169807692307692,0.11,0.0288346523668639
+"k = 2","Uncorrected","I² = 75%","rma(): CE (z)","Partner–partner",0.032,0.2,0.16,0.176666666666667,0.103,0.0312111111111111
+"k = 2","Uncorrected","I² = 75%","rma(): CE (z)","Actor–partner",0.0306,0.18,0.17,0.174166666666667,0.125,0.0303340277777778
+"k = 2","Uncorrected","I² = 75%","rma(): CE (z)","Partner–actor",0.0304,0.19,0.16,0.17075,0.108,0.0291555625
+"k = 2","Uncorrected","I² = 75%","rma(): RE (z)","Actor–actor",0.0775,0.25,0.31,0.2808,0.028,0.07884864
+"k = 2","Uncorrected","I² = 75%","rma(): RE (z)","Partner–partner",0.078,0.26,0.3,0.280689655172414,0.03,0.0787866825208086
+"k = 2","Uncorrected","I² = 75%","rma(): RE (z)","Actor–partner",0.078,0.26,0.3,0.280416666666667,0.032,0.0786335069444445
+"k = 2","Uncorrected","I² = 75%","rma(): RE (z)","Partner–actor",0.0775,0.25,0.31,0.2792,0.038,0.07795264
+"k = 2","Uncorrected","I² = 75%","rma(): RE (KH)","Actor–actor",NA,NA,NA,NA,0.002,NA
+"k = 2","Uncorrected","I² = 75%","rma(): RE (KH)","Partner–partner",NA,NA,NA,NA,0,NA
+"k = 2","Uncorrected","I² = 75%","rma(): RE (KH)","Actor–partner",NA,NA,NA,NA,0.005,NA
+"k = 2","Uncorrected","I² = 75%","rma(): RE (KH)","Partner–actor",NA,NA,NA,NA,0.004,NA
+"k = 2","Uncorrected","I² = 75%","rma(): RE (KH ad hoc)","Actor–actor",NA,NA,NA,NA,0,NA
+"k = 2","Uncorrected","I² = 75%","rma(): RE (KH ad hoc)","Partner–partner",NA,NA,NA,NA,0,NA
+"k = 2","Uncorrected","I² = 75%","rma(): RE (KH ad hoc)","Actor–partner",NA,NA,NA,NA,0,NA
+"k = 2","Uncorrected","I² = 75%","rma(): RE (KH ad hoc)","Partner–actor",NA,NA,NA,NA,0,NA
+"k = 2","Uncorrected","I² = 75%","rma.mv(): multilevel (z)","Actor–actor",0.065,0.26,0.25,0.253947368421053,0.018,0.0644892659279779
+"k = 2","Uncorrected","I² = 75%","rma.mv(): multilevel (z)","Partner–partner",0.0648,0.27,0.24,0.256111111111111,0.02,0.0655929012345679
+"k = 2","Uncorrected","I² = 75%","rma.mv(): multilevel (z)","Actor–partner",0.0648,0.27,0.24,0.255294117647059,0.022,0.0651750865051903
+"k = 2","Uncorrected","I² = 75%","rma.mv(): multilevel (z)","Partner–actor",0.0648,0.27,0.24,0.251764705882353,0.021,0.0633854671280277
+"k = 2","Uncorrected","I² = 75%","rma.mv(): multilevel (CR2)","Actor–actor",NA,NA,NA,NA,0.001,NA
+"k = 2","Uncorrected","I² = 75%","rma.mv(): multilevel (CR2)","Partner–partner",NA,NA,NA,NA,0,NA
+"k = 2","Uncorrected","I² = 75%","rma.mv(): multilevel (CR2)","Actor–partner",NA,NA,NA,NA,0.003,NA
+"k = 2","Uncorrected","I² = 75%","rma.mv(): multilevel (CR2)","Partner–actor",NA,NA,NA,NA,0.004,NA
+"k = 2","Corrected for unreliability","I² = 0%","rma(): CE (z)","Actor–actor",0.0315,0.15,0.21,0.176181818181818,0.003,0.0310400330578512
+"k = 2","Corrected for unreliability","I² = 0%","rma(): CE (z)","Partner–partner",0.0315,0.15,0.21,0.179166666666667,0.003,0.0321006944444444
+"k = 2","Corrected for unreliability","I² = 0%","rma(): CE (z)","Actor–partner",0.0315,0.15,0.21,0.177543859649123,0.006,0.0315218220991074
+"k = 2","Corrected for unreliability","I² = 0%","rma(): CE (z)","Partner–actor",0.0304,0.16,0.19,0.176415094339623,0.002,0.031122285510858
+"k = 2","Corrected for unreliability","I² = 0%","rma(): RE (z)","Actor–actor",0.0437,0.19,0.23,0.212,0.002,0.044944
+"k = 2","Corrected for unreliability","I² = 0%","rma(): RE (z)","Partner–partner",0.044,0.2,0.22,0.2105,0.002,0.04431025
+"k = 2","Corrected for unreliability","I² = 0%","rma(): RE (z)","Actor–partner",0.0437,0.19,0.23,0.209387755102041,0.004,0.0438432319866722
+"k = 2","Corrected for unreliability","I² = 0%","rma(): RE (z)","Partner–actor",0.0456,0.19,0.24,0.21125,0,0.0446265625
+"k = 2","Corrected for unreliability","I² = 0%","rma(): RE (KH)","Actor–actor",NA,NA,NA,NA,0.003,NA
+"k = 2","Corrected for unreliability","I² = 0%","rma(): RE (KH)","Partner–partner",NA,NA,NA,NA,0.002,NA
+"k = 2","Corrected for unreliability","I² = 0%","rma(): RE (KH)","Actor–partner",NA,NA,NA,NA,0.004,NA
+"k = 2","Corrected for unreliability","I² = 0%","rma(): RE (KH)","Partner–actor",NA,NA,NA,NA,0.002,NA
+"k = 2","Corrected for unreliability","I² = 0%","rma(): RE (KH ad hoc)","Actor–actor",NA,NA,NA,NA,0,NA
+"k = 2","Corrected for unreliability","I² = 0%","rma(): RE (KH ad hoc)","Partner–partner",NA,NA,NA,NA,0,NA
+"k = 2","Corrected for unreliability","I² = 0%","rma(): RE (KH ad hoc)","Actor–partner",NA,NA,NA,NA,0,NA
+"k = 2","Corrected for unreliability","I² = 0%","rma(): RE (KH ad hoc)","Partner–actor",NA,NA,NA,NA,0,NA
+"k = 2","Corrected for unreliability","I² = 0%","rma.mv(): multilevel (z)","Actor–actor",0.0336,0.16,0.21,0.182941176470588,0.002,0.0334674740484429
+"k = 2","Corrected for unreliability","I² = 0%","rma.mv(): multilevel (z)","Partner–partner",0.0336,0.16,0.21,0.182833333333333,0.001,0.0334280277777778
+"k = 2","Corrected for unreliability","I² = 0%","rma.mv(): multilevel (z)","Actor–partner",0.0323,0.17,0.19,0.18125,0.006,0.0328515625
+"k = 2","Corrected for unreliability","I² = 0%","rma.mv(): multilevel (z)","Partner–actor",0.0336,0.16,0.21,0.183076923076923,0.001,0.0335171597633136
+"k = 2","Corrected for unreliability","I² = 0%","rma.mv(): multilevel (CR2)","Actor–actor",NA,NA,NA,NA,0,NA
+"k = 2","Corrected for unreliability","I² = 0%","rma.mv(): multilevel (CR2)","Partner–partner",NA,NA,NA,NA,0,NA
+"k = 2","Corrected for unreliability","I² = 0%","rma.mv(): multilevel (CR2)","Actor–partner",NA,NA,NA,NA,0.001001001001001,NA
+"k = 2","Corrected for unreliability","I² = 0%","rma.mv(): multilevel (CR2)","Partner–actor",NA,NA,NA,NA,0.001001001001001,NA
+"k = 2","Corrected for unreliability","I² = 25%","rma(): CE (z)","Actor–actor",0.036,0.18,0.2,0.189787234042553,0.008,0.0360191942055229
+"k = 2","Corrected for unreliability","I² = 25%","rma(): CE (z)","Partner–partner",0.036,0.18,0.2,0.191612903225806,0.006,0.0367155046826223
+"k = 2","Corrected for unreliability","I² = 25%","rma(): CE (z)","Actor–partner",0.0374,0.17,0.22,0.192702702702703,0.013,0.0371343316289262
+"k = 2","Corrected for unreliability","I² = 25%","rma(): CE (z)","Partner–actor",0.0357,0.17,0.21,0.187142857142857,0.008,0.0350224489795918
+"k = 2","Corrected for unreliability","I² = 25%","rma(): RE (z)","Actor–actor",0.0567,0.21,0.27,0.239166666666667,0.002,0.0572006944444444
+"k = 2","Corrected for unreliability","I² = 25%","rma(): RE (z)","Partner–partner",0.0609,0.21,0.29,0.249130434782609,0.004,0.0620659735349716
+"k = 2","Corrected for unreliability","I² = 25%","rma(): RE (z)","Actor–partner",0.0588,0.21,0.28,0.248823529411765,0.006,0.0619131487889273
+"k = 2","Corrected for unreliability","I² = 25%","rma(): RE (z)","Partner–actor",0.0567,0.21,0.27,0.2416,0.002,0.05837056
+"k = 2","Corrected for unreliability","I² = 25%","rma(): RE (KH)","Actor–actor",NA,NA,NA,NA,0.003,NA
+"k = 2","Corrected for unreliability","I² = 25%","rma(): RE (KH)","Partner–partner",NA,NA,NA,NA,0.005,NA
+"k = 2","Corrected for unreliability","I² = 25%","rma(): RE (KH)","Actor–partner",NA,NA,NA,NA,0.004,NA
+"k = 2","Corrected for unreliability","I² = 25%","rma(): RE (KH)","Partner–actor",NA,NA,NA,NA,0.003,NA
+"k = 2","Corrected for unreliability","I² = 25%","rma(): RE (KH ad hoc)","Actor–actor",NA,NA,NA,NA,0,NA
+"k = 2","Corrected for unreliability","I² = 25%","rma(): RE (KH ad hoc)","Partner–partner",NA,NA,NA,NA,0,NA
+"k = 2","Corrected for unreliability","I² = 25%","rma(): RE (KH ad hoc)","Actor–partner",NA,NA,NA,NA,0,NA
+"k = 2","Corrected for unreliability","I² = 25%","rma(): RE (KH ad hoc)","Partner–actor",NA,NA,NA,NA,0,NA
+"k = 2","Corrected for unreliability","I² = 25%","rma.mv(): multilevel (z)","Actor–actor",0.0456,0.19,0.24,0.213720930232558,0.007,0.04567663601947
+"k = 2","Corrected for unreliability","I² = 25%","rma.mv(): multilevel (z)","Partner–partner",0.046,0.2,0.23,0.213541666666667,0.005,0.0456000434027778
+"k = 2","Corrected for unreliability","I² = 25%","rma.mv(): multilevel (z)","Actor–partner",0.046,0.2,0.23,0.212941176470588,0.003,0.0453439446366782
+"k = 2","Corrected for unreliability","I² = 25%","rma.mv(): multilevel (z)","Partner–actor",0.0437,0.19,0.23,0.214,0.004,0.045796
+"k = 2","Corrected for unreliability","I² = 25%","rma.mv(): multilevel (CR2)","Actor–actor",NA,NA,NA,NA,0,NA
+"k = 2","Corrected for unreliability","I² = 25%","rma.mv(): multilevel (CR2)","Partner–partner",NA,NA,NA,NA,0.002,NA
+"k = 2","Corrected for unreliability","I² = 25%","rma.mv(): multilevel (CR2)","Actor–partner",NA,NA,NA,NA,0.001,NA
+"k = 2","Corrected for unreliability","I² = 25%","rma.mv(): multilevel (CR2)","Partner–actor",NA,NA,NA,NA,0.001,NA
+"k = 2","Corrected for unreliability","I² = 50%","rma(): CE (z)","Actor–actor",0.0437,0.19,0.23,0.210588235294118,0.034,0.0443474048442907
+"k = 2","Corrected for unreliability","I² = 50%","rma(): CE (z)","Partner–partner",0.0456,0.19,0.24,0.2125,0.025,0.04515625
+"k = 2","Corrected for unreliability","I² = 50%","rma(): CE (z)","Actor–partner",0.0456,0.19,0.24,0.214166666666667,0.035,0.0458673611111111
+"k = 2","Corrected for unreliability","I² = 50%","rma(): CE (z)","Partner–actor",0.0437,0.19,0.23,0.207777777777778,0.03,0.0431716049382716
+"k = 2","Corrected for unreliability","I² = 50%","rma(): RE (z)","Actor–actor",0.0825,0.25,0.33,0.294,0.012,0.086436
+"k = 2","Corrected for unreliability","I² = 50%","rma(): RE (z)","Partner–partner",0.087,0.29,0.3,0.296,0.012,0.087616
+"k = 2","Corrected for unreliability","I² = 50%","rma(): RE (z)","Actor–partner",0.085,0.25,0.34,0.297407407407407,0.015,0.0884511659807956
+"k = 2","Corrected for unreliability","I² = 50%","rma(): RE (z)","Partner–actor",0.0858,0.26,0.33,0.293225806451613,0.012,0.0859813735691987
+"k = 2","Corrected for unreliability","I² = 50%","rma(): RE (KH)","Actor–actor",NA,NA,NA,NA,0.005,NA
+"k = 2","Corrected for unreliability","I² = 50%","rma(): RE (KH)","Partner–partner",NA,NA,NA,NA,0.004,NA
+"k = 2","Corrected for unreliability","I² = 50%","rma(): RE (KH)","Actor–partner",NA,NA,NA,NA,0.004,NA
+"k = 2","Corrected for unreliability","I² = 50%","rma(): RE (KH)","Partner–actor",NA,NA,NA,NA,0.004,NA
+"k = 2","Corrected for unreliability","I² = 50%","rma(): RE (KH ad hoc)","Actor–actor",NA,NA,NA,NA,0,NA
+"k = 2","Corrected for unreliability","I² = 50%","rma(): RE (KH ad hoc)","Partner–partner",NA,NA,NA,NA,0,NA
+"k = 2","Corrected for unreliability","I² = 50%","rma(): RE (KH ad hoc)","Actor–partner",NA,NA,NA,NA,0,NA
+"k = 2","Corrected for unreliability","I² = 50%","rma(): RE (KH ad hoc)","Partner–actor",NA,NA,NA,NA,0,NA
+"k = 2","Corrected for unreliability","I² = 50%","rma.mv(): multilevel (z)","Actor–actor",0.0696,0.24,0.29,0.2625,0.012,0.06890625
+"k = 2","Corrected for unreliability","I² = 50%","rma.mv(): multilevel (z)","Partner–partner",0.07,0.25,0.28,0.264285714285714,0.013,0.0698469387755102
+"k = 2","Corrected for unreliability","I² = 50%","rma.mv(): multilevel (z)","Actor–partner",0.07,0.25,0.28,0.264074074074074,0.019,0.0697351165980796
+"k = 2","Corrected for unreliability","I² = 50%","rma.mv(): multilevel (z)","Partner–actor",0.0675,0.25,0.27,0.260645161290323,0.011,0.0679359001040583
+"k = 2","Corrected for unreliability","I² = 50%","rma.mv(): multilevel (CR2)","Actor–actor",NA,NA,NA,NA,0,NA
+"k = 2","Corrected for unreliability","I² = 50%","rma.mv(): multilevel (CR2)","Partner–partner",NA,NA,NA,NA,0,NA
+"k = 2","Corrected for unreliability","I² = 50%","rma.mv(): multilevel (CR2)","Actor–partner",NA,NA,NA,NA,0.001,NA
+"k = 2","Corrected for unreliability","I² = 50%","rma.mv(): multilevel (CR2)","Partner–actor",NA,NA,NA,NA,0.001,NA
+"k = 2","Corrected for unreliability","I² = 75%","rma(): CE (z)","Actor–actor",0.0621,0.23,0.27,0.255,0.122,0.065025
+"k = 2","Corrected for unreliability","I² = 75%","rma(): CE (z)","Partner–partner",0.0672,0.24,0.28,0.262105263157895,0.124,0.0686991689750693
+"k = 2","Corrected for unreliability","I² = 75%","rma(): CE (z)","Actor–partner",0.0667,0.23,0.29,0.262857142857143,0.141,0.0690938775510204
+"k = 2","Corrected for unreliability","I² = 75%","rma(): CE (z)","Partner–actor",0.0621,0.23,0.27,0.253513513513514,0.124,0.0642691015339664
+"k = 2","Corrected for unreliability","I² = 75%","rma(): RE (z)","Actor–actor",0.1692,0.36,0.47,0.42375,0.032,0.1795640625
+"k = 2","Corrected for unreliability","I² = 75%","rma(): RE (z)","Partner–partner",0.171,0.38,0.45,0.418125,0.036,0.174828515625
+"k = 2","Corrected for unreliability","I² = 75%","rma(): RE (z)","Actor–partner",0.1692,0.36,0.47,0.421666666666667,0.037,0.177802777777778
+"k = 2","Corrected for unreliability","I² = 75%","rma(): RE (z)","Partner–actor",0.1692,0.36,0.47,0.419411764705882,0.038,0.175906228373702
+"k = 2","Corrected for unreliability","I² = 75%","rma(): RE (KH)","Actor–actor",NA,NA,NA,NA,0.004,NA
+"k = 2","Corrected for unreliability","I² = 75%","rma(): RE (KH)","Partner–partner",NA,NA,NA,NA,0.005,NA
+"k = 2","Corrected for unreliability","I² = 75%","rma(): RE (KH)","Actor–partner",NA,NA,NA,NA,0.004,NA
+"k = 2","Corrected for unreliability","I² = 75%","rma(): RE (KH)","Partner–actor",NA,NA,NA,NA,0.002,NA
+"k = 2","Corrected for unreliability","I² = 75%","rma(): RE (KH ad hoc)","Actor–actor",NA,NA,NA,NA,0,NA
+"k = 2","Corrected for unreliability","I² = 75%","rma(): RE (KH ad hoc)","Partner–partner",NA,NA,NA,NA,0,NA
+"k = 2","Corrected for unreliability","I² = 75%","rma(): RE (KH ad hoc)","Actor–partner",NA,NA,NA,NA,0,NA
+"k = 2","Corrected for unreliability","I² = 75%","rma(): RE (KH ad hoc)","Partner–actor",NA,NA,NA,NA,0,NA
+"k = 2","Corrected for unreliability","I² = 75%","rma.mv(): multilevel (z)","Actor–actor",0.1443,0.37,0.39,0.379615384615385,0.016,0.144107840236686
+"k = 2","Corrected for unreliability","I² = 75%","rma.mv(): multilevel (z)","Partner–partner",0.144,0.4,0.36,0.3792,0.023,0.14379264
+"k = 2","Corrected for unreliability","I² = 75%","rma.mv(): multilevel (z)","Actor–partner",0.1476,0.41,0.36,0.383333333333333,0.024,0.146944444444444
+"k = 2","Corrected for unreliability","I² = 75%","rma.mv(): multilevel (z)","Partner–actor",0.14,0.35,0.4,0.3752,0.024,0.14077504
+"k = 2","Corrected for unreliability","I² = 75%","rma.mv(): multilevel (CR2)","Actor–actor",NA,NA,NA,NA,0.004,NA
+"k = 2","Corrected for unreliability","I² = 75%","rma.mv(): multilevel (CR2)","Partner–partner",NA,NA,NA,NA,0.004,NA
+"k = 2","Corrected for unreliability","I² = 75%","rma.mv(): multilevel (CR2)","Actor–partner",NA,NA,NA,NA,0.002,NA
+"k = 2","Corrected for unreliability","I² = 75%","rma.mv(): multilevel (CR2)","Partner–actor",NA,NA,NA,NA,0.001,NA
