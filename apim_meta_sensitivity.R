@@ -140,10 +140,10 @@ stopifnot(CFG$input_mode %in% c("rds", "table"), CFG$het_metric %in% c("I2", "ta
           CFG$het_share_study >= 0, CFG$het_share_study <= 1,
           all(CFG$het_values >= 0), CFG$het_metric != "I2" || all(CFG$het_values < 1))
 
-# CFG_OVERRIDE <- list(k_replicates = c(1, 2, 5), validate_mc = FALSE,
-#                      out_prefix = "APIM_sensitivity_k")
-# 
-# source("apim_meta_sensitivity.R")
+CFG_OVERRIDE <- list(k_replicates = c(1, 2, 5), validate_mc = FALSE,
+                     out_prefix = "APIM_sensitivity_k")
+
+source("apim_meta_sensitivity.R")
 
 ## =============================================================================
 ## 2. STUDY-LEVEL INPUTS  (assumed means and sampling (co)variances)
